@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+
+.navBar {
+  width: 100%;
+  background-color: lightblue;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.content {
+  background-color: indigo;
+}
